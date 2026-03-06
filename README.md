@@ -1,59 +1,73 @@
-<h1 align="center">👋 Olá! Eu sou o Felipe</h1>
+<h1 align="center">Felipe De Nigris</h1>
 
 <p align="center">
-  Desenvolvedor Backend focado em soluções simples, funcionais e bem estruturadas.<br />
-  Apaixonado por tecnologia, APIs e código limpo.
+Backend / Full Stack Developer <br>
+PHP • Node.js • TypeScript • Angular
+</p>
+
+<p align="center">
+Desenvolvedor focado em construção de APIs, aplicações web escaláveis e análise de dados.
 </p>
 
 ---
 
-### 🧠 Sobre mim
+## 🚀 Sobre mim
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 💻 Especialista em **Desenvolvimento Backend**
-- 🚀 Sempre aprendendo e buscando novos desafios técnicos
-- 🧩 Gosto de resolver problemas com lógica, organização e clareza
-- 🤝 Aberto a colaborações em projetos open source ou freelas
+Sou desenvolvedor **Full Stack** com experiência em desenvolvimento de aplicações web e APIs utilizando **PHP, Node.js, TypeScript e Angular**.
 
----
+Tenho experiência no desenvolvimento e manutenção de sistemas corporativos, integração com bancos de dados SQL e construção de soluções voltadas para automação e análise de dados.
 
-### 🛠️ Tecnologias que uso
+Atualmente também estou desenvolvendo projetos voltados para **análise e cruzamento de dados públicos utilizando IA e automação.**
 
-#### 💻 Backend
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+💡 Interesses técnicos:
 
-#### 🌐 Frontend
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### 🧰 Ferramentas & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- Backend e arquitetura de APIs
+- Processamento e análise de dados
+- Automação de coleta de dados
+- Sistemas escaláveis
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Stack Principal
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdnigris&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdnigris&layout=compact&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fdnigris&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdnigris&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 📫 Onde me encontrar
+## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-nigris-547199236/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felipenigris@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-nigris-547199236)
+
+Email: **felipenigris@icloud.com**
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Bora codar! 🚀
+⭐ Sempre aberto para colaborar em projetos interessantes e novos desafios.
