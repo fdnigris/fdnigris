@@ -16,8 +16,6 @@ Sou desenvolvedor **Full Stack** com experiência na construção de aplicaçõe
 
 Tenho experiência no desenvolvimento e manutenção de sistemas corporativos, integração com bancos de dados relacionais e construção de soluções voltadas para automação e análise de dados.
 
-Atualmente também desenvolvo projetos voltados para **análise e cruzamento de dados públicos utilizando automação e inteligência artificial**.
-
 Interesses técnicos:
 
 - Backend e arquitetura de APIs
